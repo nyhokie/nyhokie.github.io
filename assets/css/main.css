@@ -18,6 +18,10 @@
 		vertical-align: baseline;
 	}
 
+	p.orange{
+		background-color: #ed4933;
+	}
+
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
@@ -2640,10 +2644,7 @@
 				}
 
 			}
-
-			.wrapper >.inner p.orange {
-				background-color: #ed4933;
-			}
+			
 
 		.wrapper.alt {
 			padding: 0;
