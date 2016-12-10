@@ -47,9 +47,7 @@
 	body {
 		-webkit-text-size-adjust: none;
 	}
-	p .orange {
-		background-color: #ed4933;
-	}
+
 
 /* Box Model */
 
@@ -2626,6 +2624,10 @@
 			width: 60em;
 			margin: 0 auto;
 		}
+
+			.wrapper > .inner {
+				background-color: #ed4933;
+			}
 
 			@media screen and (max-width: 1280px) {
 
